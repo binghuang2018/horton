@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: horton
+Version: 2.1.1
+Summary: HORTON: Helpful Open-source Research TOol for N-fermion systems.
+Home-page: http://theochem.github.com/horton/
+Author: Toon Verstraelen
+Author-email: Toon.Verstraelen@UGent.be
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Cython
+Classifier: Programming Language :: C++
+Classifier: Topic :: Science/Engineering :: Molecular Science

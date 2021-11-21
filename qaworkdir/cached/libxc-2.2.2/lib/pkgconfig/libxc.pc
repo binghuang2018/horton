@@ -1,0 +1,11 @@
+prefix=/home/bing/src/horton-2.1.1/qaworkdir/cached/libxc-2.2.2
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libxc
+Description: Library of exchange and correlation functionals to be used in DFT codes
+Requires: 
+Version: 2.2.2
+Libs: -L${libdir} -lxc
+Cflags: -I${includedir}
